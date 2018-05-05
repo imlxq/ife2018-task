@@ -1,0 +1,72 @@
+*
+{
+    box-sizing: border-box;
+}
+body
+{
+    font-size:14x;
+    width: 800px;
+    
+    
+    
+}
+header
+{
+    width: 800px;
+    height:80px;
+    font-size:30px;
+    font-weight: bold;
+
+    color: white;
+    background-color: rgb(39, 43, 48);
+    padding:auto 100px ;
+    margin: 0px;
+    
+}
+
+h1
+{
+    font-size:22px;
+    font-weight: bold;
+    
+    width: 100px;
+    height:100px;
+
+    padding:auto;
+    background-color: lightslategrey;
+    border: white solid 1px;
+    margin: 0px;
+    float: left;
+}
+.right
+{
+
+    width: 700px;
+    height: 100px;
+    margin: 0px;
+    float: right;
+    border: rgb(109, 104, 104) solid 1px;
+}
+.msg,th
+{
+    font-size: 15px;
+    font-weight: bold;
+    margin: 0px;
+
+}
+tr,th,td
+{ 
+    margin: 0px;
+    padding-right: 15px;
+    
+
+}
+
+tr{
+    float: left;
+    
+}
+
+.clearfix {
+    clear: both;
+  }

@@ -1,0 +1,44 @@
+body
+{
+    font-size:16px;
+    width: auto;
+    min-width: 800px;
+    box-sizing: border-box;
+    line-height: 1.5;
+    display: flex;
+}
+header
+{
+    width: 200px;
+    font-size:30px;
+    font-weight: bold;
+    float: left;
+    color: white;
+    background-color: dodgerblue;
+    padding-top: 60px;
+    text-align: center;
+    
+}
+main
+{
+    max-width: 800px;
+    float: left;
+    padding-left: 30px;
+    padding-bottom:  50px;
+}
+h1
+{
+    font-size:22px;
+    font-weight: bold;
+}
+.msg,th
+{
+    font-size: 18px;
+    font-weight: bold;
+    padding-right: 10px;
+}
+td
+{
+   padding-right: 40px;
+
+}
